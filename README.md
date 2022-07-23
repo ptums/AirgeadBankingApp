@@ -2,7 +2,7 @@
 
 ## Summary
 
-<img alt="Flow chart" width="500px" src="PFT-Airgead-Banking-Application-Flowchart.png" />
+<img alt="Flow chart" src="PFT-Airgead-Banking-Application-Flowchart.png" />
 
 
 ## Well designed aspects
