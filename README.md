@@ -2,14 +2,14 @@
 
 ## Summary
 
-This application will calculate 
+This application will calculate the annual balance of an investment with or without monthly deposits.
 
 <img alt="Flow chart" src="PFT-Airgead-Banking-Application-Flowchart.png" />
 
 
 ## Well designed aspects
 
-The logic for doing the calculations is well designed and 
+The logic that calculates the annual interest with and without monthly deposits is well designed.
 
 ## Areas of enhancement
 
@@ -21,11 +21,8 @@ The challenges of building this application where getting each one of these diff
 
 ## Transferable skills
 
+The transferable skills learned by designing this program is OOP using C++, working with and connecting multiple files, and designing programs with complex decision branches.
+
 ## Maintable, readable, adaptable
 
-Summarize the project and what problem it was solving.
-What did you do particularly well?
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-What skills from this project will be particularly transferable to other projects or course work?
-How did you make this program maintainable, readable, and adaptable?
+This program is maintainable, readable, and adaptable because it is designed with an object-oriented programming paradigm. 
